@@ -1,2 +1,2 @@
 # python-llm-base
-个人模型基础微调
+个人AI Lab，模型小项目
